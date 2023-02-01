@@ -3,7 +3,7 @@ import Head from "next/head";
 import Image from "next/image";
 
 const Home: NextPage = () => {
-  return <h1>pee</h1>;
+  return <div>hello</div>;
 };
 
 export default Home;
